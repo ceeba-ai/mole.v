@@ -1,0 +1,99 @@
+.body{
+    display: flex;
+    
+    height: 700px;
+    width: 1000px;
+
+}
+.left{
+    height: 740px;
+    width: 300px;
+    background: linear-gradient(to right,rgb(239, 235, 235),hsl(164, 71%, 60%));
+    
+}
+.right{
+    height: 746px;
+    width: 1260px;
+    background: linear-gradient(to right,rgb(0, 47, 255),hsl(150, 67%, 71%));
+
+}
+.sub1{
+    height: 350px;
+    width: 788px;
+
+    background: linear-gradient(to right,rgb(0, 255, 255),hsl(174, 16%, 37%));
+}
+.sub2{
+    height: 350px;
+    width: 788px;
+    background: linear-gradient(to right,rgb(251, 180, 244),hsl(175, 7%, 69%));
+}
+.sub3{
+    height: 350px;
+    width: 788px;
+    background: linear-gradient(to right,rgb(142, 244, 129),hsl(175, 100%, 50%));
+}
+.sub4{
+    height: 350px;
+    width: 788px;
+
+    background: linear-gradient(to right,rgb(0, 255, 255),hsl(174, 16%, 37%));
+}
+.sub5{
+    height: 350px;
+    width: 788px;
+    background: linear-gradient(to right,rgb(95, 11, 212),hsl(175, 7%, 69%));
+}
+.sub6{
+    height: 350px;
+    width: 788px;
+    background: linear-gradient(to right,rgb(34, 246, 6),hsl(175, 100%, 50%));
+}
+.bord{
+    margin-left: 60px;
+    color: white;
+}
+.text1{
+      color: rgb(249, 252, 252);
+}
+.text2{
+    color: antiquewhite;
+}
+.text3{
+    color: azure;
+}
+.text4{
+    color: black;
+}
+.text5{
+    color:rgb(209, 39, 10);
+}
+.buttom{
+    color: blue;
+}
+.wall{
+    margin-left: 100px;
+    display: flex;
+    width: 840px;
+    height: 700px;
+}
+.body{
+    display: flex;
+}
+.box{
+    margin: 4px;
+}
+.lorem{
+    width: 400px;
+   color: cadetblue;
+}
+.l.game{
+    width: 200px;
+    color: blueviolet;
+}
+
+.control-submit{
+    color: aqua;
+}
+
+
